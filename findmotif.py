@@ -41,7 +41,7 @@ outer_iterations = 500
 best_start_positions = np.zeros((outer_iterations, 1+num_sequences)) # extra column for the score of this set
 
 for k in range(outer_iterations):
-	print('dataset '+setnum+', start positions '+str(k))
+	#print('dataset '+setnum+', start positions '+str(k))
 	not_improved = 0  	# when this reaches 50, break out of the while loop b/c it means the score is unlikely to improve anymore
 	old_score = 0
 	new_score = 0
