@@ -1,4 +1,4 @@
-Implementation of Gibbs Random Sampling Algorithm to find the most frequently occurring substring (motif) in a set of gene sequences. 
+Implementation of Gibbs Random Sampling Algorithm to find the most frequently occurring substring (motif) in a set of gene sequences, taking into account wildcard bases.
 
 Usage
 
