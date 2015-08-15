@@ -2,10 +2,10 @@ Implementation of Gibbs Random Sampling Algorithm to find the most frequently oc
 
 Usage
 
-To generate datasets, edit the configuration in run.py and run
+To generate datasets, change to desired configuration in run.py and do
 
 $ ./run.py
 
-To run the algorithm on the datasets, run
+To run the algorithm on the datasets, do
 
 $ ./run2.py
